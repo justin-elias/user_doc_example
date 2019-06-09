@@ -30,8 +30,6 @@ editor, Sublime Text 3, to write Markdown syntax.
 
 *One last note, this guide is written assuming that the user is on a MacOS system. If that is not the case, the only difference is that CMD translates to CTRL on a Windows or Linux machine.*
 
-<!-- MarkdownTOC -->
-
 - ## Chapter 1: Sublime Text 3
     - Choosing Sublime Text 3
     - Download Sublime Text 3
@@ -44,15 +42,10 @@ editor, Sublime Text 3, to write Markdown syntax.
     - Test Markdown
 - ## Chapter 3: Markdown Syntax
     - Using Markdown:
-    - Using Header
-- This is an H1 Header
-- This is an H2 Header
-    - This is an H3 Header
+    - Using Headers
     - Change font emphasis
     - Create Lists
 - ## Conclusion
-
-<!-- /MarkdownTOC -->
 
 
 ## Chapter 1: Sublime Text 3
